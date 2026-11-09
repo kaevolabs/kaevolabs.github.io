@@ -1,0 +1,11 @@
+{
+  "slug": "stamp-post",
+  "name": "Stamp Post",
+  "name_tr": "Mühür Postası",
+  "tagline": "A calm layer puzzle: press the stamps in the right order and collect the world.",
+  "docs": [
+    "privacy",
+    "terms"
+  ],
+  "order": 2
+}

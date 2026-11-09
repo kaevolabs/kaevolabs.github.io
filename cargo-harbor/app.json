@@ -1,0 +1,11 @@
+{
+  "slug": "cargo-harbor",
+  "name": "Cargo Harbor",
+  "name_tr": "Kargo Limanı",
+  "tagline": "A relaxing cargo-sorting puzzle across six lively harbors.",
+  "docs": [
+    "privacy",
+    "terms"
+  ],
+  "order": 1
+}
